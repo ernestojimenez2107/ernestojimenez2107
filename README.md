@@ -34,19 +34,10 @@
     >
   </a>
 
-  <a href="https://github.com/ernestojimenez2107?tab=followers">
-    <img
-      alt="Seguidores en GitHub"
-      title="Seguirme en GitHub"
-      src="https://img.shields.io/github/followers/ernestojimenez2107?style=for-the-badge&logo=github&label=SEGUIR"
-    >
+  
   </a>
 
-  <img
-    alt="Visitas al perfil"
-    title="Visitas al perfil"
-    src="https://komarev.com/ghpvc/?username=ernestojimenez2107&style=for-the-badge&label=VISITAS"
-  >
+ 
 </p>
 
 <br>
@@ -197,25 +188,7 @@ Soy **Técnico Superior en Electromedicina Clínica** y **Técnico Superior en M
 
 </details>
 
-<details>
-<summary><h2>📊 Estadísticas y actividad</h2></summary>
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ernestojimenez2107&show_icons=true&hide_border=true&locale=es"
-    alt="Estadísticas de GitHub"
-  >
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ernestojimenez2107&hide_border=true&locale=es"
-    alt="Racha de contribuciones"
-  >
-</p>
-
-</details>
 
 <br>
 
@@ -224,4 +197,18 @@ Soy **Técnico Superior en Electromedicina Clínica** y **Técnico Superior en M
   <a href="https://www.linkedin.com/in/ernesto-jim%C3%A9nez-martel/">LinkedIn</a>
   ·
   <a href="mailto:ernestojesusjm@gmail.com">ernestojesusjm@gmail.com</a>
+  
+  <p align="right">
+   <img
+    alt="Visitas al perfil"
+    title="Visitas al perfil"
+    src="https://komarev.com/ghpvc/?username=ernestojimenez2107&style=for-the-badge&label=VISITAS"
+  />
+    <a href="https://github.com/ernestojimenez2107?tab=followers">
+  <p align="right">
+    <img
+      alt="Seguidores en GitHub"
+      title="Seguirme en GitHub"
+      src="https://img.shields.io/github/followers/ernestojimenez2107?style=for-the-badge&logo=github&label=SEGUIR"
+    />
 </p>
