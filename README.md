@@ -194,8 +194,8 @@ Para consultar mi experiencia profesional completa:
 
 <p align="center">
   <strong>📫 Contacto profesional:</strong>
-
-  <a href="mailto:ernesto.jimenez102@alu.ulpgc.es">ernesto.jimenez102@alu.ulpgc.es</a>
+  <a href="mailto:ernesto.jimenez102@alu.ulpgc.es">ernesto.jimenez102@alu.ulpgc.es
+  </a>
   
   <p align="right">
    <img
