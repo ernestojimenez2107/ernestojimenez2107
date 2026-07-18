@@ -153,7 +153,7 @@
 
 - Participación en tareas de mantenimiento preventivo y correctivo de equipamiento electromédico.
 - Apoyo en la revisión funcional, diagnóstico de incidencias y seguimiento de intervenciones técnicas.
-- Familiarización con equipamiento de fabricantes como **Mindray, Getinge y Dräger**.
+- Familiarización con equipamiento de fabricantes como **General Electric, Getinge y Dräger**.
 - Experiencia práctica en entornos hospitalarios y servicios técnicos especializados.
 
 ### Técnico de Mantenimiento Electrónico — Prácticas curriculares
