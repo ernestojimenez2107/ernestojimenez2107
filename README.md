@@ -144,6 +144,41 @@
 
 </details>
 
+<details>
+<summary><h2>💼 Experiencia técnica</h2></summary>
+
+### Técnico de Electromedicina Clínica — Prácticas curriculares
+
+**ACJ SAU · Dräger · Hospital Universitario Materno Infantil (CHUIMI)**
+
+- Participación en tareas de mantenimiento preventivo y correctivo de equipamiento electromédico.
+- Apoyo en la revisión funcional, diagnóstico de incidencias y seguimiento de intervenciones técnicas.
+- Familiarización con equipamiento de fabricantes como **Mindray, Getinge y Dräger**.
+- Experiencia práctica en entornos hospitalarios y servicios técnicos especializados.
+
+### Técnico de Mantenimiento Electrónico — Prácticas curriculares
+
+**Gloria Etimac Canarias, S. L.**
+
+- Apoyo en la revisión, diagnóstico y mantenimiento de equipos electrónicos e impresoras.
+- Gestión y seguimiento de incidencias técnicas.
+- Colaboración con el equipo técnico en tareas de mantenimiento.
+
+<p>
+Para consultar mi experiencia profesional completa:
+<a href="https://www.linkedin.com/in/ernesto-jim%C3%A9nez-martel/">
+<strong>LinkedIn</strong>
+</a>
+</p>
+
+</details>
+
+
+
+
+
+
+
 <details open>
 <summary><h2>📜 Licencias y certificaciones</h2></summary>
 
