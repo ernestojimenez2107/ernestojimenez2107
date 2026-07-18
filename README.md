@@ -120,11 +120,16 @@
 <img alt="Microsoft PowerPoint - Avanzado" src="https://img.shields.io/badge/Microsoft%20PowerPoint-Avanzado-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white">
 </p>
 
-<h3>🎨 Diseño y creación digital</h3>
+<h3>🎨 Diseño,Edición audiovisual y producción multimedia </h3>
 
 <p>
+<img alt="Audacity - Avanzado" src="https://img.shields.io/badge/Audacity-Avanzado-0000CC?style=flat&logo=audacity&logoColor=white">
 <img alt="Blender - Básico" src="https://img.shields.io/badge/Blender-B%C3%A1sico-E87D0D?style=flat&logo=blender&logoColor=white">
 <img alt="Unity - Básico" src="https://img.shields.io/badge/Unity-B%C3%A1sico-000000?style=flat&logo=unity&logoColor=white">
+<img alt="VEGAS Pro - Intermedio" src="https://img.shields.io/badge/VEGAS%20Pro-Intermedio-1A1A1A?style=flat&logoColor=white">
+<img alt="Adobe Premiere Pro - Intermedio" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-Intermedio-9999FF?style=flat&logo=adobepremierepro&logoColor=white">
+<img alt="OBS Studio - Intermedio" src="https://img.shields.io/badge/OBS%20Studio-Intermedio-302E31?style=flat&logo=obsstudio&logoColor=white">
+
 </p>
 
 <h3>🤝 Competencias profesionales</h3>
