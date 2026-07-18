@@ -193,10 +193,9 @@ Para consultar mi experiencia profesional completa:
 <br>
 
 <p align="center">
-  <strong>📫 Contacto:</strong>
-  <a href="https://www.linkedin.com/in/ernesto-jim%C3%A9nez-martel/">LinkedIn</a>
-  ·
-  <a href="mailto:ernestojesusjm@gmail.com">ernestojesusjm@gmail.com</a>
+  <strong>📫 Contacto profesional:</strong>
+
+  <a href="mailto:ernesto.jimenez102@alu.ulpgc.es">ernesto.jimenez102@alu.ulpgc.es</a>
   
   <p align="right">
    <img
