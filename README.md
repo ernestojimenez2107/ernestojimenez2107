@@ -120,7 +120,7 @@
 <img alt="Microsoft PowerPoint - Avanzado" src="https://img.shields.io/badge/Microsoft%20PowerPoint-Avanzado-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white">
 </p>
 
-<h3>🎨 Diseño,Edición audiovisual y producción multimedia </h3>
+<h3>🎨 Diseño, edición audiovisual y producción multimedia </h3>
 
 <p>
 <img alt="Audacity - Avanzado" src="https://img.shields.io/badge/Audacity-Avanzado-0000CC?style=flat&logo=audacity&logoColor=white">
