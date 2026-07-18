@@ -145,46 +145,6 @@
 </details>
 
 <details open>
-<summary><h2>💼 Experiencia práctica</h2></summary>
-
-<h3>Técnico de Electromedicina Clínica (Prácticas)</h3>
-
-<h4>ACJ SAU · marzo de 2019 — junio de 2019</h4>
-
-- Participación en tareas de mantenimiento preventivo y correctivo de equipamiento electromédico.
-- Familiarización con la revisión, el diagnóstico y el funcionamiento de equipos de fabricantes como **Mindray** y **Getinge**.
-- Colaboración con el equipo técnico en la organización y el seguimiento de las intervenciones de mantenimiento.
-
-<h4>Dräger · enero de 2020 — abril de 2020</h4>
-
-- Participación en tareas de mantenimiento preventivo y correctivo de equipos médicos.
-- Apoyo en la revisión funcional y colaboración con el personal técnico en la resolución de incidencias dentro de un entorno sanitario.
-
-<h4>Hospital Universitario Materno Infantil — CHUIMI · abril de 2022 — junio de 2022</h4>
-
-- Realización de tareas de mantenimiento preventivo y correctivo de equipos electromédicos.
-- Apoyo en la gestión, el registro y el seguimiento de las intervenciones de mantenimiento.
-
-<h3>Técnico de Mantenimiento Electrónico (Prácticas)</h3>
-
-<h4>Gloria Etimac Canarias, S. L. · marzo de 2022 — abril de 2022</h4>
-
-- Apoyo en la revisión, el diagnóstico y el mantenimiento de equipos electrónicos e impresoras.
-- Gestión y seguimiento de incidencias técnicas.
-
-</details>
-
-<details open>
-<summary><h2>🎓 Formación</h2></summary>
-
-- **Grado en Ingeniería en Tecnologías de la Telecomunicación** — En curso
-- **Ciclo Formativo de Grado Superior en Electromedicina Clínica**
-- **Ciclo Formativo de Grado Superior en Mantenimiento Electrónico**
-- **Bachillerato Científico-Tecnológico**
-
-</details>
-
-<details open>
 <summary><h2>📜 Licencias y certificaciones</h2></summary>
 
 - **Permiso de conducir (B)**
