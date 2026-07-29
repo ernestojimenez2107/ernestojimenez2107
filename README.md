@@ -34,10 +34,14 @@
     >
   </a>
 
-  
+   <a href= "https://codeberg.org/ernestojesusjm/Badge-Profesionales.git">
+    <img
+      alt="Badges profesionales"
+      title="Ver mis badges profesionales"
+      src="https://img.shields.io/badge/Badges-Profesionales-2496ED?style=for-the-badge&logo=credly&logoColor=white"
+    >
   </a>
-
- 
+  </a>
 </p>
 
 <br>
@@ -57,20 +61,20 @@
 
 </details>
 
+<h3>🤝Competencias profesionales</h3>
+
+<p>
+<img alt="Trabajo en equipo" src="https://img.shields.io/badge/Trabajo%20en%20Equipo-228BE6?style=flat-square&v=3">
+<img alt="Comunicación efectiva" src="https://img.shields.io/badge/Comunicaci%C3%B3n%20Efectiva-845EF7?style=flat-square&v=3">
+<img alt="Organización y planificación" src="https://img.shields.io/badge/Organizaci%C3%B3n%20y%20Planificaci%C3%B3n-12B886?style=flat-square&v=3">
+<img alt="Resolución de problemas" src="https://img.shields.io/badge/Resoluci%C3%B3n%20de%20Problemas-F59F00?style=flat-square&v=3">
+<img alt="Responsabilidad profesional" src="https://img.shields.io/badge/Responsabilidad%20Profesional-FA5252?style=flat-square&v=3">
+</p>
+
+
 <details open>
 <summary><h2>🛠️ Tecnologías, software y competencias</h2></summary>
 
-<h3>🩺 Áreas técnicas y especialización</h3>
-
-<p>
-<img alt="Sistemas digitales y analógicos" src="https://img.shields.io/badge/Sistemas%20Digitales%20y%20Anal%C3%B3gicos-0077B6?style=flat-square&v=3">
-<img alt="Redes y comunicaciones" src="https://img.shields.io/badge/Redes%20y%20Comunicaciones-2B8A3E?style=flat-square">
-<img alt="Mantenimiento preventivo y correctivo" src="https://img.shields.io/badge/Mantenimiento%20Preventivo%20y%20Correctivo-C92A2A?style=flat-square">
-<img alt="Diagnóstico de averías" src="https://img.shields.io/badge/Diagn%C3%B3stico%20de%20Aver%C3%ADas-5F3DC4?style=flat-square">
-<img alt="Gestión de incidencias" src="https://img.shields.io/badge/Gesti%C3%B3n%20de%20Incidencias-E67700?style=flat-square">
-<img alt="Equipamiento electromédico" src="https://img.shields.io/badge/Equipamiento%20Electrom%C3%A9dico-0B7285?style=flat-square">
-<img alt="Entornos hospitalarios" src="https://img.shields.io/badge/Entornos%20Hospitalarios-862E9C?style=flat-square">
-</p>
 
 <h3>🧑‍💻 Lenguajes y tecnologías de desarrollo</h3>
 
@@ -132,82 +136,6 @@
 
 </p>
 
-<h3>🤝 Competencias profesionales</h3>
 
-<p>
-<img alt="Trabajo en equipo" src="https://img.shields.io/badge/Trabajo%20en%20Equipo-228BE6?style=flat-square&v=3">
-<img alt="Comunicación efectiva" src="https://img.shields.io/badge/Comunicaci%C3%B3n%20Efectiva-845EF7?style=flat-square&v=3">
-<img alt="Organización y planificación" src="https://img.shields.io/badge/Organizaci%C3%B3n%20y%20Planificaci%C3%B3n-12B886?style=flat-square&v=3">
-<img alt="Resolución de problemas" src="https://img.shields.io/badge/Resoluci%C3%B3n%20de%20Problemas-F59F00?style=flat-square&v=3">
-<img alt="Responsabilidad profesional" src="https://img.shields.io/badge/Responsabilidad%20Profesional-FA5252?style=flat-square&v=3">
 </p>
 
-</details>
-
-<details>
-<summary><h2>💼 Experiencia técnica</h2></summary>
-
-### Técnico de Electromedicina Clínica — Prácticas curriculares
-
-**ACJ SAU · Dräger · Hospital Universitario Materno Infantil (CHUIMI)**
-
-- Participación en tareas de mantenimiento preventivo y correctivo de equipamiento electromédico.
-- Apoyo en la revisión funcional, diagnóstico de incidencias y seguimiento de intervenciones técnicas.
-- Familiarización con equipamiento de fabricantes como **General Electric, Getinge y Dräger**.
-- Experiencia práctica en entornos hospitalarios y servicios técnicos especializados.
-
-### Técnico de Mantenimiento Electrónico — Prácticas curriculares
-
-**Gloria Etimac Canarias, S. L.**
-
-- Apoyo en la revisión, diagnóstico y mantenimiento de equipos electrónicos e impresoras.
-- Gestión y seguimiento de incidencias técnicas.
-- Colaboración con el equipo técnico en tareas de mantenimiento.
-
-<p>
-Para consultar mi experiencia profesional completa:
-<a href="https://www.linkedin.com/in/ernesto-jim%C3%A9nez-martel/">
-<strong>LinkedIn</strong>
-</a>
-</p>
-
-</details>
-
-
-
-
-
-
-
-<details open>
-<summary><h2>📜 Licencias y certificaciones</h2></summary>
-
-- **Permiso de conducir (B)**
-- **Oxford Test of English Advanced — B2**
-- **ORCID:** [0009-0002-1735-1491](https://orcid.org/0009-0002-1735-1491)
-
-</details>
-
-
-
-<br>
-
-<p align="center">
-  <strong>📫 Contacto profesional:</strong>
-  <a href="mailto:ernesto.jimenez102@alu.ulpgc.es">ernesto.jimenez102@alu.ulpgc.es
-  </a>
-  
-  <p align="right">
-   <img
-    alt="Visitas al perfil"
-    title="Visitas al perfil"
-    src="https://komarev.com/ghpvc/?username=ernestojimenez2107&style=for-the-badge&label=VISITAS"
-  />
-    <a href="https://github.com/ernestojimenez2107?tab=followers">
-  <p align="right">
-    <img
-      alt="Seguidores en GitHub"
-      title="Seguirme en GitHub"
-      src="https://img.shields.io/github/followers/ernestojimenez2107?style=for-the-badge&logo=github&label=SEGUIR"
-    />
-</p>
