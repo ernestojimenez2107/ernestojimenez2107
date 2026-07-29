@@ -1,4 +1,4 @@
-# .profile
+
 <h1 align="center">Ernesto Jesús Jiménez Martel</h1>
 
 <p align="center">
@@ -35,7 +35,7 @@
     >
   </a>
 
-   <a href= "https://codeberg.org/ernestojesusjm/Badge-Profesionales.git">
+   <a href= "https://github.com/ernestojimenez2107/Badge-Profesionales">
     <img
       alt="Badges profesionales"
       title="Ver mis badges profesionales"
