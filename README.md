@@ -1,4 +1,4 @@
-<h1 align="center">Ernesto Jesús Jiménez Martel</h1>
+<img width="813" height="334" alt="image" src="https://github.com/user-attachments/assets/9020e6e7-b4e3-4db4-8733-d73cce952568" /><h1 align="center">Ernesto Jesús Jiménez Martel</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -34,7 +34,7 @@
     >
   </a>
 
-   <a href= "https://codeberg.org/ernestojesusjm/Badge-Profesionales.git">
+   <a href= "https://github.com/ernestojimenez2107/Badge-Profesionales">
     <img
       alt="Badges profesionales"
       title="Ver mis badges profesionales"
