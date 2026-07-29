@@ -1,9 +1,4 @@
-<img width="813" height="334" alt="image" src="https://github.com/user-attachments/assets/9020e6e7-b4e3-4db4-8733-d73cce952568" /><h1 align="center">Ernesto Jesús Jiménez Martel</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=17&duration=3000&pause=1000&color=3FA9F5&center=true&vCenter=true&multiline=true&repeat=true&width=1150&height=180&lines=%C2%A1Hola%21%20Actualmente%20soy%20estudiante%20de%20Ingenier%C3%ADa%20en%20Tecnolog%C3%ADas%20de%20la%20Telecomunicaci%C3%B3n.;Tengo%20expectativas%20abiertas%20a%20explorar%20y%20descubrir%20nuevos%20horizontes.;Busco%20un%20entorno%20que%20me%20permita%20crecer%20y%20desarrollar%20nuevas%20habilidades%2C;alimentando%20mi%20pasi%C3%B3n%20por%20la%20tecnolog%C3%ADa."
       alt="Presentación profesional de Ernesto Jesús Jiménez Martel"
     >
   </a>
