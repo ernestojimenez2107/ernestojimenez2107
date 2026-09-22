@@ -58,7 +58,7 @@
 - 🔍 Interés por el diagnóstico de incidencias, la revisión funcional y la asistencia técnica.
 - 📋 Experiencia en el seguimiento y la documentación de intervenciones de mantenimiento.
 - 🤝 Persona responsable, organizada y orientada al trabajo en equipo.
-- 📍 Interesado en oportunidades relacionadas con electromedicina, mantenimiento electrónico, telecomunicaciones y tecnología sanitaria.
+- 📍 Interesado en oportunidades relacionadas con telecomunicaciones y tecnología sanitaria.
 
 </details>
 
