@@ -77,7 +77,7 @@
 <summary><h2>🛠️ Tecnologías, software y competencias</h2></summary>
 
 
-<h3>🧑‍💻 Lenguajes  y tecnologías de desarrollo</h3>
+<h3>🧑‍💻 Lenguajes de Programación, Descripción de Hardware y tecnologías de desarrollo</h3>
 
 <p>
 <a href="https://github.com/search?q=user%3Aernestojimenez2107+language%3AMATLAB"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-E16737.svg?logo=mathworks&logoColor=white"></a>
