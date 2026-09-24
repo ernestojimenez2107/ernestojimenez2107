@@ -55,9 +55,8 @@
 - 🏥 Experiencia práctica en entornos hospitalarios y servicios técnicos especializados.
 - 🔧 Participación en tareas de mantenimiento preventivo y correctivo de equipos electromédicos.
 - 📡 Formación en electrónica, comunicaciones, redes y sistemas.
-- 🔍 Interés por el diagnóstico de incidencias, la revisión funcional y la asistencia técnica.
+- 🔍 Interés por la Imagen médica, equipos de monitorización y todo relacionado con la electrónica (Hardware/Firmware) .
 - 📋 Experiencia en el seguimiento y la documentación de intervenciones de mantenimiento.
-- 🤝 Persona responsable, organizada y orientada al trabajo en equipo.
 - 📍 Interesado en oportunidades relacionadas con telecomunicaciones y tecnología sanitaria.
 
 </details>
