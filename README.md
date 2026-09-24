@@ -50,7 +50,7 @@
 <details open>
 <summary><h2>👨‍🔧 Sobre mí</h2></summary>
 
- **Técnico Superior en Electromedicina Clínica** y **Técnico Superior en Mantenimiento Electrónico**. Actualmente curso el **Grado en Ingeniería en Tecnologías de la Telecomunicación** y resido en **Las Palmas de Gran Canaria**.
+ **Doble Titulado Superior en Electromedicina Clínica** y ** Mantenimiento Electrónico**. Actualmente curso el **Grado en Ingeniería en Tecnologías de la Telecomunicación** y resido en **Las Palmas de Gran Canaria**.
 
 - 🏥 Experiencia práctica en entornos hospitalarios y servicios técnicos especializados.
 - 🔧 Participación en tareas de mantenimiento preventivo y correctivo de equipos electromédicos.
