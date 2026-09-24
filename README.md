@@ -65,7 +65,7 @@
 <h3>🤝Competencias profesionales</h3>
 
 <p>
-<img alt="Autodidacta" src="https://img.shields.io/badge/Autodidacta%20en%20-228BE6?style=flat-square&v=3">
+<img alt="Autodidacta" src="https://img.shields.io/badge/Autodidacta%20%20-228BE6?style=flat-square&v=3">
 <img alt="Comunicación efectiva" src="https://img.shields.io/badge/Comunicaci%C3%B3n%20Efectiva-845EF7?style=flat-square&v=3">
 <img alt="Organización y planificación" src="https://img.shields.io/badge/Organizaci%C3%B3n%20y%20Planificaci%C3%B3n-12B886?style=flat-square&v=3">
 <img alt="Resolución de problemas bajo presión" src="https://img.shields.io/badge/Resoluci%C3%B3n%20de%20Problemas Bajo Presión-F59F00?style=flat-square&v=3">
