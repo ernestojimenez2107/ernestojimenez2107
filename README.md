@@ -95,7 +95,7 @@
 <h3>⚙️ Software técnico, diseño y simulación</h3>
 
 <p>
-<img alt="RISC-V" src="https://img.shields.io/badge/RISC--V-283272?style=flat&logo=riscv&logoColor=white">
+<img alt="KiCad" src="https://img.shields.io/badge/KiCad%20-1F6FEB?style=flat&logoColor=white">
 <img alt="LTspice" src="https://img.shields.io/badge/LTspice-900028?style=flat&logo=ltspice&logoColor=white">
 <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white">
 <img alt="EDA Playground" src="https://img.shields.io/badge/EDA%20Playground-1F6FEB?style=flat&logoColor=white">
